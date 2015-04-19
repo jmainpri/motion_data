@@ -1,0 +1,26 @@
+2/24 Motions
+Active Human
+
+	Motion 1
+		Run 3 1619,1702 red
+	Motion 2
+		Run 5 1282,1370 red
+	Motion 3
+		Run 7 1593,1696 red
+	Motion 4
+		Run 7 649,740 yellow
+	Motion 5
+		Run 4 1696,1796 yellow
+
+Passive Human
+
+	Motion 1
+		Run 7 1550,1698 blue
+	Motion 2
+		Run 7 2131,2252 red
+	Motion 3
+		Run 1 1184,1334 blue
+	Motion 4
+		Run 1 1440,1567 yellow
+	Motion 5
+		Run 1 1954,2076 red
